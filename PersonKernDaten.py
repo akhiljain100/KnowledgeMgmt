@@ -3,7 +3,7 @@ import urllib.request
 import os
 import sys
 from util import dbconnection
-
+import numpy as np 
 db=dbconnection.client.kms
 
 ##parser
