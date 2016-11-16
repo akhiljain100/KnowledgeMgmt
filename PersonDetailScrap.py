@@ -4,6 +4,7 @@ import os
 import sys
 from util import dbconnection
 import numpy as np
+import scipy as sp
 db=dbconnection.client.kms
 
 ##parser
