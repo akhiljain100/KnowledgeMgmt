@@ -4,6 +4,7 @@ import os
 import sys
 from util import dbconnection
 import numpy as np
+import scipy as sp
 import branchakhil3
 db=dbconnection.client.kms
 
